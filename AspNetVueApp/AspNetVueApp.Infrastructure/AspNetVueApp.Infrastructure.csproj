@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetVueApp.Application\AspNetVueApp.Application.csproj" />
+    <ProjectReference Include="..\AspNetVueApp.Domain\AspNetVueApp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

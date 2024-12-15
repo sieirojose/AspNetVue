@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "AspNetVueApp.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AspNetVueApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AspNetVueApp.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspNetVueApp.Application.dll": {}
+        }
+      },
+      "AspNetVueApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AspNetVueApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspNetVueApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AspNetVueApp.Application/1.0.0": {
+      "type": "project",
+      "path": "../AspNetVueApp.Application/AspNetVueApp.Application.csproj",
+      "msbuildProject": "../AspNetVueApp.Application/AspNetVueApp.Application.csproj"
+    },
+    "AspNetVueApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AspNetVueApp.Domain/AspNetVueApp.Domain.csproj",
+      "msbuildProject": "../AspNetVueApp.Domain/AspNetVueApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "AspNetVueApp.Application >= 1.0.0",
+      "AspNetVueApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\chebe\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\AspNetVueApp.Application.csproj": {
+              "projectPath": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\AspNetVueApp.Application.csproj"
+            },
+            "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
