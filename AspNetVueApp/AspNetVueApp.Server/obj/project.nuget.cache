@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8kpy1URX4D7Pj96bcslcJ6FWv95d6dUCJCQLttub/knZMbXWW3jbBqfmNWmbD1+yc/0fHrGLHuyK5T2N7rFuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Server\\AspNetVueApp.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chebe\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.11\\microsoft.aspnetcore.spaproxy.8.0.11.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\chebe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+9KsG9ds22gcOr8NjyXlpPBVI9c1ly9Z8X+CpflyZGg=",
+  "Source": "AspNetVueApp.Server",
+  "BasePath": "_content/AspNetVueApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\aspnetvueapp.client\\aspnetvueapp.client.esproj",
+      "Version": 2,
+      "Source": "aspnetvueapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
