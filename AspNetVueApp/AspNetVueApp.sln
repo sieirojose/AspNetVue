@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetVueApp.Server", "AspN
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aspnetvueapp.client", "aspnetvueapp.client\aspnetvueapp.client.esproj", "{315F57E7-9C63-4BE7-B296-FA45639EBCA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVueApp.Worker", "AspNetVueApp.Worker\AspNetVueApp.Worker.csproj", "{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetVueApp.Worker", "AspNetVueApp.Worker\AspNetVueApp.Worker.csproj", "{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVueApp.Domain", "AspNetVueApp.Domain\AspNetVueApp.Domain.csproj", "{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVueApp.Application", "AspNetVueApp.Application\AspNetVueApp.Application.csproj", "{0B91373A-783E-4001-A6F0-8A172B048BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVueApp.Infrastructure", "AspNetVueApp.Infrastructure\AspNetVueApp.Infrastructure.csproj", "{D650ABCB-E549-47B2-98E6-531EF6D3068E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVueApp.Presentation", "AspNetVueApp.Presentation\AspNetVueApp.Presentation.csproj", "{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +37,22 @@ Global
 		{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B91373A-783E-4001-A6F0-8A172B048BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B91373A-783E-4001-A6F0-8A172B048BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B91373A-783E-4001-A6F0-8A172B048BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B91373A-783E-4001-A6F0-8A172B048BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D650ABCB-E549-47B2-98E6-531EF6D3068E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D650ABCB-E549-47B2-98E6-531EF6D3068E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D650ABCB-E549-47B2-98E6-531EF6D3068E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D650ABCB-E549-47B2-98E6-531EF6D3068E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
