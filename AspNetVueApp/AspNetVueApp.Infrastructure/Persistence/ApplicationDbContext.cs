@@ -14,6 +14,7 @@ namespace AspNetVueApp.Infrastructure.Persistence
             : base(options) { }
 
         
-        public DbSet<User> Users { get; set; } 
+        public DbSet<User> Users { get; set; }
+        public DbSet<CatFact> CatFacts { get; set; }
     }
 }

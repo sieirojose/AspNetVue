@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\entities\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\entities\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.application\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|solutionrelative:aspnetvueapp.application\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F3A1CB8-4986-4672-8B21-A655A7E87D99}|AspNetVueApp.Server\\AspNetVueApp.Server.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3A1CB8-4986-4672-8B21-A655A7E87D99}|AspNetVueApp.Server\\AspNetVueApp.Server.csproj|solutionrelative:aspnetvueapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.application\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|solutionrelative:aspnetvueapp.application\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|solutionrelative:aspnetvueapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\entities\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\entities\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.presentation\\controllers\\catfactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|solutionrelative:aspnetvueapp.presentation\\controllers\\catfactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\interfaces\\icatfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\interfaces\\icatfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\repositories\\catfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|solutionrelative:aspnetvueapp.infrastructure\\repositories\\catfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}|AspNetVueApp.Worker\\AspNetVueApp.Worker.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E146DD59-ED1A-4A7A-9E8C-3528DC06F199}|AspNetVueApp.Worker\\AspNetVueApp.Worker.csproj|solutionrelative:aspnetvueapp.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|solutionrelative:aspnetvueapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CatFactsController.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Presentation\\Controllers\\CatFactsController.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Presentation\\Controllers\\CatFactsController.cs",
@@ -70,7 +82,7 @@
               "RelativeDocumentMoniker": "AspNetVueApp.Server\\Program.cs",
               "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Server\\Program.cs",
               "RelativeToolTip": "AspNetVueApp.Server\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T04:21:09.497Z",
               "IsPinned": true,
@@ -78,7 +90,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ICatFactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Interfaces\\ICatFactRepository.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Interfaces\\ICatFactRepository.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Interfaces\\ICatFactRepository.cs",
+              "RelativeToolTip": "AspNetVueApp.Domain\\Interfaces\\ICatFactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:36:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatFactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Repositories\\CatFactRepository.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Repositories\\CatFactRepository.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Repositories\\CatFactRepository.cs",
+              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Repositories\\CatFactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:35:40.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CatFact.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\CatFact.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Entities\\CatFact.cs",
@@ -91,13 +129,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CatFactService.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Services\\CatFactService.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Application\\Services\\CatFactService.cs",
               "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Services\\CatFactService.cs",
               "RelativeToolTip": "AspNetVueApp.Application\\Services\\CatFactService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T05:15:05.116Z",
               "EditorCaption": ""
@@ -105,19 +143,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "AspNetVueApp.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "20241216064048_AddingCatFactEntity.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs",
+              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Migrations\\20241216064048_AddingCatFactEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T04:20:08.681Z",
+              "WhenOpened": "2024-12-16T06:40:48.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:18:28.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
@@ -125,24 +176,23 @@
               "RelativeToolTip": "AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwDUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T03:19:30.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T03:19:30.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AspNetVueApp.Domain\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T03:18:28.272Z"
+              "WhenOpened": "2024-12-16T04:20:08.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UserJob.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Jobs\\UserJob.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Jobs\\UserJob.cs",
@@ -150,12 +200,11 @@
               "RelativeToolTip": "AspNetVueApp.Infrastructure\\Jobs\\UserJob.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:14:42.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T02:14:42.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Worker\\Program.cs",
               "RelativeDocumentMoniker": "AspNetVueApp.Worker\\Program.cs",
@@ -163,8 +212,7 @@
               "RelativeToolTip": "AspNetVueApp.Worker\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T01:50:59.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T01:50:59.339Z"
             }
           ]
         }
