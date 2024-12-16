@@ -1,4 +1,5 @@
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Infrastructure.deps.json
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Infrastructure.runtimeconfig.json
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Infrastructure.dll
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Infrastructure.pdb
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Application.dll
@@ -15,6 +16,5 @@ C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastru
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\AspNetVueApp.Infrastructure.dll
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\refint\AspNetVueApp.Infrastructure.dll
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\AspNetVueApp.Infrastructure.pdb
-C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\ref\AspNetVueApp.Infrastructure.dll
-C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\bin\Debug\net8.0\AspNetVueApp.Infrastructure.runtimeconfig.json
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\AspNetVueApp.Infrastructure.genruntimeconfig.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Infrastructure\obj\Debug\net8.0\ref\AspNetVueApp.Infrastructure.dll

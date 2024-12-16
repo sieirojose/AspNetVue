@@ -25,6 +25,7 @@
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="..\AspNetVueApp.Infrastructure\AspNetVueApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\AspNetVueApp.Presentation\AspNetVueApp.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

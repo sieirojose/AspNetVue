@@ -2,6 +2,7 @@ using AspNetVueApp.Infrastructure.Persistence;
 using AspNetVueApp.Domain.Interfaces;
 using AspNetVueApp.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using AspNetVueApp.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddHttpClient<CatFactService>();
+
+
 
 var app = builder.Build();
 
