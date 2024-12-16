@@ -1,0 +1,16 @@
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\bin\Debug\net8.0\AspNetVueApp.Application.deps.json
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\bin\Debug\net8.0\AspNetVueApp.Application.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\bin\Debug\net8.0\AspNetVueApp.Application.pdb
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\bin\Debug\net8.0\AspNetVueApp.Domain.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\bin\Debug\net8.0\AspNetVueApp.Domain.pdb
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.csproj.AssemblyReference.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.AssemblyInfoInputs.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.AssemblyInfo.cs
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.sourcelink.json
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVu.44377E65.Up2Date
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\refint\AspNetVueApp.Application.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\AspNetVueApp.Application.pdb
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Application\obj\Debug\net8.0\ref\AspNetVueApp.Application.dll

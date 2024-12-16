@@ -1,0 +1,12 @@
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\bin\Debug\net8.0\AspNetVueApp.Domain.deps.json
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\bin\Debug\net8.0\AspNetVueApp.Domain.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\bin\Debug\net8.0\AspNetVueApp.Domain.pdb
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.AssemblyInfoInputs.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.AssemblyInfo.cs
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.sourcelink.json
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\refint\AspNetVueApp.Domain.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\AspNetVueApp.Domain.pdb
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Domain\obj\Debug\net8.0\ref\AspNetVueApp.Domain.dll
