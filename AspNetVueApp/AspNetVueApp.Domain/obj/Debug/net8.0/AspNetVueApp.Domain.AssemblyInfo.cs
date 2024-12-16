@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetVueApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54242d9c260b5b98cf2432a084f1a521cfbc4426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7468daebfe3d69707cfac40433873c96f59adb6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetVueApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetVueApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

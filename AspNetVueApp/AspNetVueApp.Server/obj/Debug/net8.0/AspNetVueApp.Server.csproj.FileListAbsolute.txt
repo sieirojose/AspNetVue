@@ -33,3 +33,4 @@ C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Server\ob
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Server\obj\Debug\net8.0\AspNetVueApp.Server.pdb
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Server\obj\Debug\net8.0\AspNetVueApp.Server.genruntimeconfig.cache
 C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Server\obj\Debug\net8.0\ref\AspNetVueApp.Server.dll
+C:\Users\chebe\Desktop\My Proyects\AspNetVue\AspNetVueApp\AspNetVueApp.Server\obj\Debug\net8.0\AspNetVueApp.Server.sourcelink.json

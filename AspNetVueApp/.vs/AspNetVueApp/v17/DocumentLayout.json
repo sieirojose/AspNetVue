@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|solutionrelative:aspnetvueapp.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCB5A43-9EBD-44CE-B0EF-70F8504D73CA}|AspNetVueApp.Presentation\\AspNetVueApp.Presentation.csproj|solutionrelative:aspnetvueapp.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|solutionrelative:aspnetvueapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|solutionrelative:aspnetvueapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|solutionrelative:aspnetvueapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F3A1CB8-4986-4672-8B21-A655A7E87D99}|AspNetVueApp.Server\\AspNetVueApp.Server.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3A1CB8-4986-4672-8B21-A655A7E87D99}|AspNetVueApp.Server\\AspNetVueApp.Server.csproj|solutionrelative:aspnetvueapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D650ABCB-E549-47B2-98E6-531EF6D3068E}|AspNetVueApp.Infrastructure\\AspNetVueApp.Infrastructure.csproj|solutionrelative:aspnetvueapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91373A-783E-4001-A6F0-8A172B048BCC}|AspNetVueApp.Application\\AspNetVueApp.Application.csproj|solutionrelative:aspnetvueapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|c:\\users\\chebe\\desktop\\my proyects\\aspnetvue\\aspnetvueapp\\aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730C6F2-4DE8-4C6D-A4FD-EA345B60883A}|AspNetVueApp.Domain\\AspNetVueApp.Domain.csproj|solutionrelative:aspnetvueapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Presentation\\Class1.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Presentation\\Class1.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Presentation\\Class1.cs",
-              "RelativeToolTip": "AspNetVueApp.Presentation\\Class1.cs",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Server\\Program.cs",
+              "RelativeToolTip": "AspNetVueApp.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T22:03:27.161Z",
+              "WhenOpened": "2024-12-15T23:34:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AspNetVueApp.Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:09:08.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:01:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "AspNetVueApp.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:56:09.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "AspNetVueApp.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "AspNetVueApp.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T22:02:51.42Z"
+              "WhenOpened": "2024-12-15T22:43:20.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Application\\Class1.cs",
-              "RelativeToolTip": "AspNetVueApp.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "AspNetVueApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T22:01:15.149Z"
+              "WhenOpened": "2024-12-15T22:39:15.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Class1.cs",
-              "RelativeToolTip": "AspNetVueApp.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AspNetVueApp.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\chebe\\Desktop\\My Proyects\\AspNetVue\\AspNetVueApp\\AspNetVueApp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AspNetVueApp.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T21:56:27.318Z"
+              "WhenOpened": "2024-12-15T22:36:21.683Z",
+              "EditorCaption": ""
             }
           ]
         }
