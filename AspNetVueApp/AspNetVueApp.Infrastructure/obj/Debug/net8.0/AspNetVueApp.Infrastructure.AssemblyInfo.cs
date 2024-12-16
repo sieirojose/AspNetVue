@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetVueApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98aa3292b9b243f6c217e11a420098930a05b883")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50e05cc9d15cb38c3d1f5433c4dd60d259ea3320")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetVueApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetVueApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
