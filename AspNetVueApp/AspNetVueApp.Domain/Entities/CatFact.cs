@@ -10,14 +10,14 @@ namespace AspNetVueApp.Domain.Entities
 {
     public class CatFact
     {
-        [Key] // Clave primaria incremental
+        [Key] 
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
-        [Required] // El campo Fact es obligatorio
+        [Required] 
         public string Fact { get; set; }
 
-        [Required] // La fecha es obligatoria
+        [Required] 
         public DateTime SearchedOn { get; set; }
     }
 }

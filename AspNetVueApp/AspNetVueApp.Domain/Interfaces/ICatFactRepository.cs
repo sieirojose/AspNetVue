@@ -10,5 +10,7 @@ namespace AspNetVueApp.Domain.Interfaces
     public interface ICatFactRepository
     {
         Task AddCatFactAsync(CatFact catFact);
+
+        Task<IEnumerable<CatFact>> GetAllAsync();
     }
 }

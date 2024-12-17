@@ -19,6 +19,11 @@ namespace AspNetVueApp.Infrastructure.Repositories
             _context = context;
         }
 
+        public async Task<IEnumerable<CatFact>> GetAllAsync()
+        {
+            return await _context.CatFacts.ToListAsync();
+        }
+
         public async Task AddCatFactAsync(CatFact catFact)
         {
             _context.CatFacts.Add(catFact);

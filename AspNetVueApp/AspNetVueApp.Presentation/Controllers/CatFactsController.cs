@@ -26,5 +26,13 @@ namespace AspNetVueApp.Presentation.Controllers
             var fact = await _catFactService.GetRandomCatFactAsync();
             return Ok(new { Fact = fact });
         }
+
+        [HttpGet("all-facts")]
+        public async Task<IActionResult> GetAllCatFacts()
+        {
+            var facts = await _catFactService.GetAllCatFactsAsync();
+            return Ok(facts);
+        }
+
     }
 }

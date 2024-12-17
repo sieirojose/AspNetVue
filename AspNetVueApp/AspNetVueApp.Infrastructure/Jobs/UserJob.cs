@@ -22,8 +22,6 @@ namespace AspNetVueApp.Infrastructure.Jobs
             {
                 var users = await _userRepository.GetAllAsync();
 
-                Console.WriteLine($"Users Count: {users.Count()}");
-
                 if (!users.Any())
                 {
                     Console.WriteLine("No users to process.");

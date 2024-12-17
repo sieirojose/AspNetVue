@@ -36,7 +36,7 @@ namespace AspNetVueApp.Application.Services
 
                 if (!string.IsNullOrWhiteSpace(result?.Fact))
                 {
-                    // Guardar el hecho en la base de datos
+
                     var catFactEntity = new CatFact
                     {
                         Fact = result.Fact,
@@ -45,7 +45,7 @@ namespace AspNetVueApp.Application.Services
 
                     await _catFactRepository.AddCatFactAsync(catFactEntity);
 
-                    return result.Fact; // Retornar el hecho como respuesta
+                    return result.Fact; 
                 }
                 else
                 {
@@ -56,7 +56,13 @@ namespace AspNetVueApp.Application.Services
             return "Failed to fetch cat fact.";
         }
 
-        // Clase auxiliar para deserializar el JSON
+        public async Task<IEnumerable<CatFact>> GetAllCatFactsAsync()
+        {
+            return await _catFactRepository.GetAllAsync();
+        }
+
+
+
         private class CatFactResponse
         {
             public string Fact { get; set; }

@@ -25,6 +25,9 @@ var builder = Host.CreateDefaultBuilder(args)
         services.AddScoped<IUserRepository, UserRepository>();
         services.AddScoped<UserJob>(); // Registrar el Job como un servicio
 
+        services.AddScoped<ICatFactRepository, CatFactRepository>(); // Repositorio
+        services.AddScoped<CatFactJob>();
+
         // 3. Configuración del Worker
         services.AddHostedService<Worker>();
     });
@@ -38,12 +41,18 @@ using (var scope = host.Services.CreateScope())
 
     // Programar un Job inmediato
     jobClient.Enqueue<UserJob>(job => job.ProcessUsersAsync());
+    jobClient.Enqueue<CatFactJob>(job => job.ProcessCatFactsAsync());
 
-    // Programar un Job recurrente (cada minuto como ejemplo)
     RecurringJob.AddOrUpdate<UserJob>(
-        "ProcessUsersRecurring", // Nombre del Job
-        job => job.ProcessUsersAsync(), // Método a ejecutar
-        Cron.Hourly()); // Frecuencia (usando Cron de Hangfire)
+        "ProcessUsersRecurring", 
+        job => job.ProcessUsersAsync(), 
+        Cron.Hourly());
+
+    RecurringJob.AddOrUpdate<CatFactJob>(
+        "ProcessCatFactsRecurring",
+        job => job.ProcessCatFactsAsync(),
+        Cron.Hourly());
+
 }
 
 host.Run();
